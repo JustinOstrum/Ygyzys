@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 4ea7010009597e946b161a185f02dbee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -894763482154836463
+    second: YellowSpiky-spreadsheet_0
+  - first:
+      213: 123071939792511100
+    second: YellowSpiky-spreadsheet_1
+  - first:
+      213: 5815361336243806269
+    second: YellowSpiky-spreadsheet_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YellowSpiky-spreadsheet_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1401
+        width: 1222
+        height: 816
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 447.8369, y: -301.12384}
+        - {x: 462.15723, y: -179.41571}
+        - {x: 554.0459, y: -18.331434}
+        - {x: 581.49316, y: 69.96661}
+        - {x: 595.8135, y: 200.02725}
+        - {x: 611, y: 321.73538}
+        - {x: 611, y: 356.33865}
+        - {x: 611, y: 357.53186}
+        - {x: 607.7471, y: 353.9522}
+        - {x: 583.8799, y: 296.67783}
+        - {x: 576.7197, y: 279.97278}
+        - {x: 563.5928, y: 251.33557}
+        - {x: 539.7256, y: 211.95941}
+        - {x: 481.25098, y: 141.55962}
+        - {x: 469.31738, y: 152.29857}
+        - {x: 484.83105, y: 334.86075}
+        - {x: 484.83105, y: 352.759}
+        - {x: 481.25098, y: 356.33865}
+        - {x: 465.7373, y: 331.2811}
+        - {x: 428.74316, y: 258.49487}
+        - {x: 320.14746, y: 50.87514}
+        - {x: 314.18066, y: 49.681927}
+        - {x: 297.47363, y: 120.08172}
+        - {x: 267.63965, y: 246.56271}
+        - {x: 243.77246, y: 346.7929}
+        - {x: 229.45215, y: 400.48767}
+        - {x: 225.87207, y: 406.45377}
+        - {x: 222.29199, y: 405.26056}
+        - {x: 217.51855, y: 393.32837}
+        - {x: 135.17676, y: 118.888504}
+        - {x: 128.0166, y: 93.83095}
+        - {x: 107.72949, y: 132.01389}
+        - {x: 73.12207, y: 204.80011}
+        - {x: 28.967772, y: 350.37256}
+        - {x: 13.4541, y: 395.7148}
+        - {x: 9.874022, y: 399.29446}
+        - {x: 6.2939434, y: 398.10126}
+        - {x: -0.86621255, y: 371.85046}
+        - {x: -35.473633, y: 215.53906}
+        - {x: -49.793945, y: 184.51543}
+        - {x: -121.39551, y: 74.73948}
+        - {x: -127.362305, y: 81.89878}
+        - {x: -142.87598, y: 178.54935}
+        - {x: -176.29004, y: 390.94196}
+        - {x: -178.67676, y: 402.8741}
+        - {x: -181.06348, y: 405.26056}
+        - {x: -184.64355, y: 404.06732}
+        - {x: -188.22363, y: 392.13516}
+        - {x: -274.1455, y: 99.797035}
+        - {x: -290.85254, y: 42.522625}
+        - {x: -295.62598, y: 54.454792}
+        - {x: -315.9131, y: 87.86487}
+        - {x: -430.4756, y: 288.3253}
+        - {x: -455.53613, y: 328.89468}
+        - {x: -459.1162, y: 327.70145}
+        - {x: -460.30957, y: 319.34894}
+        - {x: -455.53613, y: 251.33557}
+        - {x: -445.98926, y: 126.047806}
+        - {x: -454.34277, y: 137.97997}
+        - {x: -593.9658, y: 320.54214}
+        - {x: -607.0928, y: 334.86075}
+        - {x: -610.67285, y: 333.66754}
+        - {x: -610.67285, y: 328.89468}
+        - {x: -609.4795, y: 306.22354}
+        - {x: -596.35254, y: 189.2883}
+        - {x: -551.0049, y: 64.00053}
+        - {x: -509.2373, y: -50.54829}
+        - {x: -496.11035, y: -82.765144}
+        - {x: -481.79004, y: -106.62948}
+        - {x: -425.70215, y: -196.12074}
+        - {x: -425.70215, y: -204.47327}
+        - {x: -382.7412, y: -358.39822}
+        - {x: -380.3545, y: -361.97787}
+        - {x: -358.87402, y: -365.55753}
+        - {x: -270.56543, y: -379.87613}
+        - {x: -151.22949, y: -398.96762}
+        - {x: -142.87598, y: -400.16083}
+        - {x: -0.86621255, y: -408}
+        - {x: 81.475586, y: -408}
+        - {x: 231.83887, y: -398.96762}
+        - {x: 408.45605, y: -352.43216}
+        - {x: 416.80957, y: -346.46606}
+      tessellationDetail: 0.06
+      bones: []
+      spriteID: 11e5b288a592593f0800000000000000
+      internalID: -894763482154836463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowSpiky-spreadsheet_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 220
+        width: 761
+        height: 671
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 373.6504, y: 90.53599}
+        - {x: 315.17578, y: 330.37256}
+        - {x: 293.6953, y: 296.9625}
+        - {x: 213.74025, y: 128.71892}
+        - {x: 107.531265, y: 301.73538}
+        - {x: 101.56447, y: 301.73538}
+        - {x: 96.79103, y: 289.8032}
+        - {x: 0.12892127, y: -14.467099}
+        - {x: -65.505844, y: 104.85458}
+        - {x: -108.46678, y: 323.21326}
+        - {x: -113.24022, y: 335.5}
+        - {x: -120.400375, y: 335.5}
+        - {x: -128.75389, y: 324.4065}
+        - {x: -262.41013, y: 177.64081}
+        - {x: -326.85153, y: 319.6336}
+        - {x: -332.81833, y: 316.05396}
+        - {x: -380.5, y: 106.047806}
+        - {x: -380.5, y: 57.12591}
+        - {x: -368.6191, y: -115.89053}
+        - {x: -362.6523, y: -142.1413}
+        - {x: -357.87888, y: -169.5853}
+        - {x: -320.88474, y: -334.2492}
+        - {x: -318.49802, y: -335.44244}
+        - {x: 347.39648, y: -335.44244}
+        - {x: 358.13672, y: -275.7816}
+        - {x: 380.5, y: -56.22969}
+        - {x: 380.5, y: -8.501015}
+      tessellationDetail: 0.04
+      bones: []
+      spriteID: c70a625f64d35b100800000000000000
+      internalID: 123071939792511100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowSpiky-spreadsheet_2
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 124
+        width: 1059
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 357.1192, y: -388.4866}
+        - {x: 366.66608, y: -319.28003}
+        - {x: 367.85944, y: -295.4157}
+        - {x: 376.21295, y: -278.71066}
+        - {x: 415.5938, y: -192.79906}
+        - {x: 421.5606, y: -179.67366}
+        - {x: 443.04108, y: -133.13821}
+        - {x: 464.52155, y: -90.1824}
+        - {x: 476.45514, y: -62.738415}
+        - {x: 529.5, y: 53.00362}
+        - {x: 529.5, y: 70.90187}
+        - {x: 526.57623, y: 86.41369}
+        - {x: 513.4493, y: 119.82376}
+        - {x: 469.29498, y: 240.33867}
+        - {x: 357.1192, y: 430.06015}
+        - {x: 346.37897, y: 447.9584}
+        - {x: 342.7989, y: 450.34482}
+        - {x: 338.02545, y: 450.34482}
+        - {x: 345.1856, y: 413.3551}
+        - {x: 372.63287, y: 296.41986}
+        - {x: 397.69342, y: 194.99643}
+        - {x: 383.3731, y: 154.42705}
+        - {x: 346.37897, y: 57.776485}
+        - {x: 333.252, y: 23.173197}
+        - {x: 328.47858, y: 10.047812}
+        - {x: 315.35162, y: 37.4918}
+        - {x: 283.13092, y: 95.95943}
+        - {x: 238.97662, y: 179.4846}
+        - {x: 229.42975, y: 204.54216}
+        - {x: 216.3028, y: 294.03342}
+        - {x: 199.59576, y: 414.54834}
+        - {x: 193.62897, y: 418.128}
+        - {x: 185.27545, y: 399.0365}
+        - {x: 141.12115, y: 274.94196}
+        - {x: 135.15436, y: 148.46097}
+        - {x: 132.76764, y: 92.379776}
+        - {x: 123.220764, y: 107.891594}
+        - {x: 114.86725, y: 129.36949}
+        - {x: 101.740295, y: 180.67783}
+        - {x: 86.22662, y: 231.98615}
+        - {x: 11.044984, y: 414.54834}
+        - {x: 5.078187, y: 428.8669}
+        - {x: 0.3047495, y: 434.833}
+        - {x: -3.2753286, y: 433.6398}
+        - {x: -6.8554068, y: 402.61615}
+        - {x: -18.789, y: 298.8063}
+        - {x: -21.175718, y: 279.7148}
+        - {x: -68.910095, y: 186.6439}
+        - {x: -117.83783, y: 81.64082}
+        - {x: -119.03119, y: 97.15264}
+        - {x: -126.191345, y: 148.46097}
+        - {x: -134.54486, y: 174.71173}
+        - {x: -154.83197, y: 222.44041}
+        - {x: -160.79877, y: 245.11153}
+        - {x: -172.73236, y: 430.06015}
+        - {x: -176.31244, y: 436.0262}
+        - {x: -179.89252, y: 434.833}
+        - {x: -182.27924, y: 427.6737}
+        - {x: -249.10736, y: 245.11153}
+        - {x: -320.70892, y: 41.07145}
+        - {x: -332.64252, y: 85.220474}
+        - {x: -381.57025, y: 242.7251}
+        - {x: -373.21674, y: 405.0026}
+        - {x: -369.63666, y: 446.76517}
+        - {x: -372.02338, y: 452.73126}
+        - {x: -375.60345, y: 452.73126}
+        - {x: -499.71283, y: 328.63672}
+        - {x: -500.9062, y: 218.86076}
+        - {x: -529.5, y: 43.457886}
+        - {x: -529.5, y: 21.97998}
+        - {x: -475.84564, y: -87.79597}
+        - {x: -414.9843, y: -211.89052}
+        - {x: -357.70306, y: -328.82578}
+        - {x: -352.92963, y: -338.37152}
+        - {x: -319.51556, y: -407.5781}
+        - {x: -313.54877, y: -411.15775}
+        - {x: -178.69916, y: -443.3746}
+        - {x: -22.369078, y: -452.92032}
+        - {x: 75.48639, y: -452.92032}
+        - {x: 132.76764, y: -450.5339}
+        - {x: 192.43561, y: -449.34067}
+        - {x: 242.5567, y: -432.63565}
+      tessellationDetail: 0.09
+      bones: []
+      spriteID: d306a5ff25054b050800000000000000
+      internalID: 5815361336243806269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
